@@ -2,7 +2,9 @@ public class DATATYPES {
     public static void main(String[] args) {
         //String
         String name ="Wesnoff";
+        // integer
         int age = 10;
+        // double
         double amount = 10;
         //using println
         System.out.println("Name: "+ name);
